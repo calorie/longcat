@@ -2,7 +2,7 @@
 
 Looooooooooooooooooooooooooooooooooooooooooooooong cat
 
-![longcat](https://raw.githubusercontent.com/mattn/longcat/master/screenshot.png)
+![longcat](https://raw.githubusercontent.com/calorie/longcat/master/screenshot.png)
 
 ## Usage
 
